@@ -10,7 +10,7 @@ Before and after code snippet from free video course [at React Training](https:/
 * ✔ 02 Compound Components
 * □ 03 Context
 * □ 04 Higher Order Components
-* □ 05 Render Prop Callbacks
+* ✔ 05 Render Prop Callbacks
 * □ 06 Implementing React Router
 * □ 07 Implementing Redux
 * □ 08 Controlled Components
