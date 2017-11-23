@@ -8,7 +8,7 @@ Before and after code snippet from free video course [at React Training](https:/
 
 * ✔ 01 Imperative v. Declarative
 * ✔ 02 Compound Components
-* □ 03 Context
+* ✔ 03 Context
 * □ 04 Higher Order Components
 * ✔ 05 Render Prop Callbacks
 * □ 06 Implementing React Router
