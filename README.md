@@ -13,10 +13,10 @@ Before and after code snippet from free video course [at React Training](https:/
 * ✔ 03 Context
 * ✔ 04 Higher Order Components
 * ✔ 05 Render Prop Callbacks
-* □ 06 Implementing React Router
-* □ 07 Implementing Redux
-* □ 08 Controlled Components
+* ~~□ 06 Implementing React Router~~ (not free)
+* ~~□ 07 Implementing Redux~~ (not free)
+* ✔ 08 Controlled Components
 
 ## Contributes:
 
-Push requests for milestone(s) are absolutely welcome.
+Push requests for milestone(s)/fixe(s) are warmly welcome.
